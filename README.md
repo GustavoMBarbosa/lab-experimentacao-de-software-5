@@ -1,1 +1,5 @@
-# lab-experimentacao-de-software-5
+# Laboratório de Experimentação de Software 5
+
+## Integrantes
+* Gustavo Barbosa
+* Gabriel Silva
